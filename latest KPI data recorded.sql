@@ -1,0 +1,3 @@
+SELECT * FROM KPIData
+ORDER BY DateRecorded DESC
+LIMIT 10; 
